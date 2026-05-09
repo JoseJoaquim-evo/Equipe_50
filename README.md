@@ -1,6 +1,6 @@
 # HACKATHON E+
 
-<img src="https://github.com/user-attachments/assets/e146d9ee-4b3d-4a3b-b5e0-948bba77ddef" width="392" height="158" alt="Captura de tela">
+<img width="1200" height="477" alt="04mai_blog_hackathon-1200x477" src="https://github.com/user-attachments/assets/ae549187-8128-4229-9e5a-2fd5352f107a" />
 
 
 ---
