@@ -4,11 +4,10 @@
 
 
 ---
-EQUIPE: 50
+EQUIPE 50
 
 Membros: Alexandre Moriya, Pedro Eduardo, Luzia Moura e José Joaquim
 
-Lider:
 
 Project Repository: https://drive.google.com/drive/folders/15kP-UHpzoGZJTHNb1ukjeZ-JCpEOBjre?usp=sharing
 
